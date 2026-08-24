@@ -1,0 +1,8 @@
+{
+  "name": "Remix Advanced Malware Detection System",
+  "description": "An interactive cybersecurity and malware analysis platform exploring static \u0026 dynamic analysis, YARA signatures, PE headers, entropy, sandbox telemetry, and AI threat intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
